@@ -1,7 +1,30 @@
-h1{
+.header{
     color:white;
-    background-color: aqua;
-    text-align: center;
-    margin:0;
-    vertical-align:baseline
+    background-color:darkcyan;
+    box-align: left;
+    text-align:center ;
+    vertical-align:baseline;
+}
+
+.box {
+    height: 500px;
+    box-align: left;
+    /* position:absolute; */
+    /* padding: 20px; */
+    color: lightgrey;
+    background: lightgray;
+  }
+
+  .parag {
+    color:black;
+    text-align:left
+  }
+
+  .header_1{
+      color:darkcyan;
+      text-align: center;
+  }
+
+  .jumbotron {
+    background-color:darkgrey !important; 
 }
